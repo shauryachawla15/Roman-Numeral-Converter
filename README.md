@@ -4,6 +4,13 @@ This Java project converts decimal numbers to Roman numerals. It was created dur
 ## Getting Started
 These instructions will help you set up and run the project on your local machine.
 
+Navigate to the project directory:  cd roman-numeral-converter
+Compile the Java files:             javac RomanHelper.java RomanDriver.java
+Run the main class:                 java RomanDriver
+
+
+
+
 ## Prerequisites
 You need to have the following installed to run the project:
 - Java JDK 8 or higher
